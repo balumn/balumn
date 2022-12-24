@@ -2,6 +2,6 @@
 
 - 🛠️ DevOps Engineer, Developer
 - 👀 Interested in learning, reading and netflixing
-- 🌱 I’m currently mastering *AWS*
-- 📖 I’m currently reading *Harry Potter and the Chamber of Secrets*
+- 🌱 I’m currently mastering *FreeSwitch*
+- 📖 I’m currently reading *Why We Sleep (by Matthew Walker)*
 - 😎 You can stalk me on my [portfolio](https://balumn.github.io/) ...
